@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Variaveis_Convert_Cast/1.0.0": {
+        "runtime": {
+          "Variaveis_Convert_Cast.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Variaveis_Convert_Cast/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

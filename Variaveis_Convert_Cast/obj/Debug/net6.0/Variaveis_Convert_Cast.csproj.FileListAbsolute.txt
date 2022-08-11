@@ -1,0 +1,15 @@
+C:\Users\ADMIN\source\repos\Variaveis_Convert_Cast\Variaveis_Convert_Cast\bin\Debug\net6.0\Variaveis_Convert_Cast.exe
+C:\Users\ADMIN\source\repos\Variaveis_Convert_Cast\Variaveis_Convert_Cast\bin\Debug\net6.0\Variaveis_Convert_Cast.deps.json
+C:\Users\ADMIN\source\repos\Variaveis_Convert_Cast\Variaveis_Convert_Cast\bin\Debug\net6.0\Variaveis_Convert_Cast.runtimeconfig.json
+C:\Users\ADMIN\source\repos\Variaveis_Convert_Cast\Variaveis_Convert_Cast\bin\Debug\net6.0\Variaveis_Convert_Cast.dll
+C:\Users\ADMIN\source\repos\Variaveis_Convert_Cast\Variaveis_Convert_Cast\bin\Debug\net6.0\Variaveis_Convert_Cast.pdb
+C:\Users\ADMIN\source\repos\Variaveis_Convert_Cast\Variaveis_Convert_Cast\obj\Debug\net6.0\Variaveis_Convert_Cast.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\Variaveis_Convert_Cast\Variaveis_Convert_Cast\obj\Debug\net6.0\Variaveis_Convert_Cast.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\Variaveis_Convert_Cast\Variaveis_Convert_Cast\obj\Debug\net6.0\Variaveis_Convert_Cast.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\Variaveis_Convert_Cast\Variaveis_Convert_Cast\obj\Debug\net6.0\Variaveis_Convert_Cast.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\Variaveis_Convert_Cast\Variaveis_Convert_Cast\obj\Debug\net6.0\Variaveis_Convert_Cast.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\Variaveis_Convert_Cast\Variaveis_Convert_Cast\obj\Debug\net6.0\Variaveis_Convert_Cast.dll
+C:\Users\ADMIN\source\repos\Variaveis_Convert_Cast\Variaveis_Convert_Cast\obj\Debug\net6.0\refint\Variaveis_Convert_Cast.dll
+C:\Users\ADMIN\source\repos\Variaveis_Convert_Cast\Variaveis_Convert_Cast\obj\Debug\net6.0\Variaveis_Convert_Cast.pdb
+C:\Users\ADMIN\source\repos\Variaveis_Convert_Cast\Variaveis_Convert_Cast\obj\Debug\net6.0\Variaveis_Convert_Cast.genruntimeconfig.cache
+C:\Users\ADMIN\source\repos\Variaveis_Convert_Cast\Variaveis_Convert_Cast\obj\Debug\net6.0\ref\Variaveis_Convert_Cast.dll
